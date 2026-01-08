@@ -72,7 +72,16 @@ $MAX_FILE_SIZE = 1024 * 1024 * 1024; // 1GB
 
 管理文件、账号、系统维护
 ~~~
-
+---
+### ✍️修改配置
+在config.php修改配置
+~~~
+define('DB_HOST', 'localhost');
+define('DB_NAME', '');       // 数据库名称
+define('DB_USER', '');       // 数据库账号
+define('DB_PASS', '');        // 数据库密码
+~~~
+---
 ## 📂 项目结构
 ~~~
 file-waimai/
