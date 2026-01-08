@@ -25,14 +25,14 @@
 
 1. 克隆项目到服务器：
    ```bash
-   git clone https://your-repo-url.git
-   cd file-waimai
+   git clone https://github.com/WaterChisato/Chisa_WaimaiFile.git
+   cd Chisa_WaimaiFile
 
 ### 配置 PHP 环境：
 
-  -PHP ≥ 7.4
+  - PHP ≥ 7.4
 
-  -MySQL ≥ 5.7
+  - MySQL ≥ 5.7
 
 ### 修改 php.ini：
 
